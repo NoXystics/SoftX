@@ -1,9 +1,9 @@
 #app-mount {
-	.f75fb00fb7356cbe-form {
+	.form_f75fb0 {
 		padding: 0 var(--space-md);
 	}
-	.f75fb00fb7356cbe-channelTextArea,
-	._5126c0cd07f243a0-channelTextArea {
+	.channelTextArea_f75fb0,
+	.channelTextArea__5126c {
 		background: var(--textbox-background);
 		border: 2px solid var(--textbox-border);
 		border-radius: 6px;
@@ -19,7 +19,7 @@
 				hsl(from var(--accent) h s l / 0.25);
 		}
 	}
-	._740174f3d6a2c8fe-scrollableContainer {
+	.scrollableContainer__74017 {
 		background: transparent;
 	}
 }

@@ -1,12 +1,12 @@
 #app-mount {
-	.f75fb00fb7356cbe-title {
+	.title_f75fb0 {
 		background: var(--bg-primary);
 		height: var(--toolbar-height);
 		border-left: 1px solid var(--bg-border);
 		border-bottom: 1px solid var(--bg-border);
 		padding: 0 var(--space-lg);
 	}
-	._9293f6b2fc12398a-children::after {
+	.children__9293f::after {
 		content: none;
 	}
 }

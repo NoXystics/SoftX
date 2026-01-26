@@ -1,30 +1,30 @@
 #app-mount {
-	._5e434347c823b592-sidebar {
+	.sidebar__5e434 {
 		border-radius: 0;
 		&::after {
 			content: none;
 		}
 
-		._629e4c86564a4ee7-scroller::-webkit-scrollbar {
+		.scroller__629e4::-webkit-scrollbar {
 			display: none;
 		}
 	}
-	._5e434347c823b592-sidebarList {
+	.sidebarList__5e434 {
 		border-radius: 0;
 		border: none;
 		padding-bottom: 0;
 		margin-bottom: var(--custom-app-panels-height);
 	}
-	._2637a2609f343032-container {
+	.container__2637a {
 		background: var(--bg-primary);
 		padding-bottom: 0;
 	}
 
 	// DMs
-	.e6b7699ce8339e1c-privateChannels {
+	.privateChannels_e6b769 {
 		background: var(--bg-primary);
 
-		._99e7cad8d4c55236-scroller {
+		.scroller__99e7c {
 			background: transparent;
 			margin-bottom: 0;
 
@@ -33,7 +33,7 @@
 			}
 		}
 	}
-	.e6b7699ce8339e1c-sectionDivider {
+	.sectionDivider_e6b769 {
 		background: var(--bg-border);
 		margin: 0;
 	}

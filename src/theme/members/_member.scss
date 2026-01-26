@@ -1,14 +1,14 @@
 #app-mount {
-	.c8ffbb79449f399c-member {
+	.member_c8ffbb {
 		background: transparent;
 		max-width: 100%;
 		margin-left: 0;
 		border-radius: 0;
-		&._91a9d7f7e5248a56-selected {
-			._91a9d7f7e5248a56-childContainer {
+		&.selected__91a9d {
+			.childContainer__91a9d {
 				background: transparent;
 			}
-			._5d473ecff348c314-username {
+			.username__5d473 {
 				text-shadow: 0 0 calc(var(--members-glow-intensity) * 10px) currentColor;
 				overflow: visible;
 				filter: none;
@@ -41,18 +41,18 @@
 			}
 		}
 	}
-	._91a9d7f7e5248a56-childContainer {
+	.childContainer__91a9d {
 		padding: var(--space-xs) var(--space-md);
 	}
-	._91a9d7f7e5248a56-layout {
+	.layout__91a9d {
 		overflow: visible;
 		position: initial;
-		._91a9d7f7e5248a56-name,
-		._91a9d7f7e5248a56-content,
-		._5d473ecff348c314-username {
+		.name__91a9d,
+		.content__91a9d,
+		.username__5d473 {
 			overflow: visible;
 		}
-		._91a9d7f7e5248a56-avatar {
+		.avatar__91a9d {
 			z-index: 1;
 		}
 	}
